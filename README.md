@@ -34,3 +34,6 @@ what can we do to work with addresses outside of our system or network?
 2) Integration - Testing how our code works with other parts of our code
 3) Forked - Testing our code on a simulated real environment
 4) Staging - Testing our code in a real environment that is not production
+
+
+# Foundry Devops Tools
